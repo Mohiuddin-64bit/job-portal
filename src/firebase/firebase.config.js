@@ -5,15 +5,14 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAv7-fE3V2Jg0wsfjj-u-ZUNduPeBiOSMQ",
-  authDomain: "fire-auth-bcb49.firebaseapp.com",
-  projectId: "fire-auth-bcb49",
-  storageBucket: "fire-auth-bcb49.appspot.com",
-  messagingSenderId: "684062867357",
-  appId: "1:684062867357:web:da810109c0b6d25d8fb974",
+  apiKey: "AIzaSyDUEtUCFV5qcmbmS8vxoz_NaZtIjmS0LAk",
+  authDomain: "job-portal-df657.firebaseapp.com",
+  projectId: "job-portal-df657",
+  storageBucket: "job-portal-df657.appspot.com",
+  messagingSenderId: "739077680293",
+  appId: "1:739077680293:web:5288ae114e0f0fb94c714c"
 };
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
-
 export default app;
